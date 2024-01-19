@@ -1,0 +1,5 @@
+git init запуск отслеживание версий
+git add--all - устанавливает какие файлы будут отслеживаться
+git commit
+git config
+git push
